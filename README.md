@@ -19,7 +19,7 @@ year={2019}
 
 ## Datasets
  - Download datasets from [Google Drive](https://drive.google.com/drive/folders/1F792DyPe4XJJejwXyfkL3EWab0VK_5a2?usp=sharing)
- - Enter the dir of the downloaded datasets. Extract the datasets by ```tar -xvftiered-imagenet-pure.tar --directory ~/datasets/``` or ```tar -xvf tiered-imagenet-mix.tar --directory ~/datasets/```
+ - Enter the dir of the downloaded datasets. Extract the datasets by ```tar -xvf tiered-imagenet-pure.tar --directory ~/datasets/``` or ```tar -xvf tiered-imagenet-mix.tar --directory ~/datasets/```
 
 ## Training
 - For 5 way 1 shot experiment on tiered-imagenet-pure:
